@@ -8,8 +8,4 @@
   <loc>https://www.haripavan.com/</loc>
   <lastmod>2019-05-08T12:37:06+00:00</lastmod>
 </url>
-
-
 </urlset>
-plugins:
-  - jekyll-sitemap
